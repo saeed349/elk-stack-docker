@@ -4,7 +4,12 @@
 - pipeline.id: udp_test
   path.config: "/usr/share/logstash/pipeline/sample.conf"
   pipeline.workers: 1
-
+- pipeline.id: file_test
+  path.config: "/usr/share/logstash/pipeline/file_log.conf"
+  pipeline.workers: 1
+- pipeline.id: file_filter_test
+  path.config: "/usr/share/logstash/pipeline/file_log_filter.conf"
+  pipeline.workers: 1
 # - pipeline.id: main
 #   path.config: "/usr/share/logstash/pipeline/*.conf"
 #   pipeline.workers: 1

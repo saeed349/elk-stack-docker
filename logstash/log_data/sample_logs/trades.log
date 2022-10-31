@@ -1,0 +1,547 @@
+2015-01-01 00:00:00 Launching analysis for a193b56b2347509ee3c521ddb16ce0f9 with LEAN Engine v2.5.0.0.14731
+2015-01-01 00:00:00 Warning: all market orders sent using daily data, or market orders sent after hours are automatically converted into MarketOnOpen orders.
+2015-01-01 00:00:00 Time: 01/01/2015 05:00:00 OrderID: 1 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2015-01-03 00:00:00 Time: 01/03/2015 05:00:00 OrderID: 1 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 25.11287 USD OrderFee: 1 USD
+2015-01-03 00:00:00 Time: 01/03/2015 05:00:00 OrderID: 2 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 27.62416
+2015-01-03 00:00:00 Time: 01/03/2015 05:00:00 OrderID: 3 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 22.60158
+2015-01-03 00:00:00 bracket order submitted: 2015-01-03 00:00:00
+2015-02-11 00:00:00 Time: 02/11/2015 05:00:00 OrderID: 2 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 27.62416 USD LimitPrice: 27.62416 OrderFee: 1 USD
+2015-02-11 00:00:00 cancelling bracket orders for: 2015-02-11 00:00:00
+2015-02-11 00:00:00 Time: 02/11/2015 05:00:00 OrderID: 3 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 22.60158
+2015-02-11 00:00:00 Time: 02/11/2015 05:00:00 OrderID: 3 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 22.60158
+2015-02-11 00:00:00 missing key in order tickets: AAPL
+2015-02-11 00:00:00 order tickets keys: dict_keys([])
+2015-02-11 00:00:00 Time: 02/11/2015 05:00:00 OrderID: 4 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2015-02-12 00:00:00 Time: 02/12/2015 05:00:00 OrderID: 4 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 27.79405 USD OrderFee: 1 USD
+2015-02-12 00:00:00 Time: 02/12/2015 05:00:00 OrderID: 5 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 30.57346
+2015-02-12 00:00:00 Time: 02/12/2015 05:00:00 OrderID: 6 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 25.01465
+2015-02-12 00:00:00 bracket order submitted: 2015-02-12 00:00:00
+2015-08-22 00:00:00 Time: 08/22/2015 04:00:00 OrderID: 6 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 24.14214 USD StopPrice: 25.01465 OrderFee: 1 USD
+2015-08-22 00:00:00 cancelling bracket orders for: 2015-08-22 00:00:00
+2015-08-22 00:00:00 Time: 08/22/2015 04:00:00 OrderID: 5 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 LimitPrice: 30.57346
+2015-08-22 00:00:00 Time: 08/22/2015 04:00:00 OrderID: 5 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 LimitPrice: 30.57346
+2015-08-22 00:00:00 missing key in order tickets: AAPL
+2015-08-22 00:00:00 order tickets keys: dict_keys([])
+2015-08-22 00:00:00 Time: 08/22/2015 04:00:00 OrderID: 7 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2015-08-25 00:00:00 Time: 08/25/2015 04:00:00 OrderID: 7 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 21.72473 USD OrderFee: 1 USD
+2015-08-25 00:00:00 Time: 08/25/2015 04:00:00 OrderID: 8 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 23.89721
+2015-08-25 00:00:00 Time: 08/25/2015 04:00:00 OrderID: 9 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 19.55226
+2015-08-25 00:00:00 bracket order submitted: 2015-08-25 00:00:00
+2015-08-26 00:00:00 Time: 08/26/2015 04:00:00 OrderID: 8 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 23.89721 USD LimitPrice: 23.89721 OrderFee: 1 USD
+2015-08-26 00:00:00 cancelling bracket orders for: 2015-08-26 00:00:00
+2015-08-26 00:00:00 Time: 08/26/2015 04:00:00 OrderID: 9 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 19.55226
+2015-08-26 00:00:00 Time: 08/26/2015 04:00:00 OrderID: 9 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 19.55226
+2015-08-26 00:00:00 missing key in order tickets: AAPL
+2015-08-26 00:00:00 order tickets keys: dict_keys([])
+2015-08-26 00:00:00 Time: 08/26/2015 04:00:00 OrderID: 10 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2015-08-27 00:00:00 Time: 08/27/2015 04:00:00 OrderID: 10 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 24.46629 USD OrderFee: 1 USD
+2015-08-27 00:00:00 Time: 08/27/2015 04:00:00 OrderID: 11 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 26.91292
+2015-08-27 00:00:00 Time: 08/27/2015 04:00:00 OrderID: 12 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 22.01966
+2015-08-27 00:00:00 bracket order submitted: 2015-08-27 00:00:00
+2015-10-24 00:00:00 Time: 10/24/2015 04:00:00 OrderID: 11 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 26.91292 USD LimitPrice: 26.91292 OrderFee: 1 USD
+2015-10-24 00:00:00 cancelling bracket orders for: 2015-10-24 00:00:00
+2015-10-24 00:00:00 Time: 10/24/2015 04:00:00 OrderID: 12 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 22.01966
+2015-10-24 00:00:00 Time: 10/24/2015 04:00:00 OrderID: 12 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 22.01966
+2015-10-24 00:00:00 missing key in order tickets: AAPL
+2015-10-24 00:00:00 order tickets keys: dict_keys([])
+2015-10-24 00:00:00 Time: 10/24/2015 04:00:00 OrderID: 13 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2015-10-27 00:00:00 Time: 10/27/2015 04:00:00 OrderID: 13 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 26.95903 USD OrderFee: 1 USD
+2015-10-27 00:00:00 Time: 10/27/2015 04:00:00 OrderID: 14 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 29.65494
+2015-10-27 00:00:00 Time: 10/27/2015 04:00:00 OrderID: 15 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 24.26313
+2015-10-27 00:00:00 bracket order submitted: 2015-10-27 00:00:00
+2015-12-19 00:00:00 Time: 12/19/2015 05:00:00 OrderID: 15 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 24.26313 USD StopPrice: 24.26313 OrderFee: 1 USD
+2015-12-19 00:00:00 cancelling bracket orders for: 2015-12-19 00:00:00
+2015-12-19 00:00:00 Time: 12/19/2015 05:00:00 OrderID: 14 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 LimitPrice: 29.65494
+2015-12-19 00:00:00 Time: 12/19/2015 05:00:00 OrderID: 14 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 LimitPrice: 29.65494
+2015-12-19 00:00:00 missing key in order tickets: AAPL
+2015-12-19 00:00:00 order tickets keys: dict_keys([])
+2015-12-19 00:00:00 Time: 12/19/2015 05:00:00 OrderID: 16 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2015-12-22 00:00:00 Time: 12/22/2015 05:00:00 OrderID: 16 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 24.59853 USD OrderFee: 1 USD
+2015-12-22 00:00:00 Time: 12/22/2015 05:00:00 OrderID: 17 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 27.05839
+2015-12-22 00:00:00 Time: 12/22/2015 05:00:00 OrderID: 18 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 22.13868
+2015-12-22 00:00:00 bracket order submitted: 2015-12-22 00:00:00
+2016-01-08 00:00:00 Time: 01/08/2016 05:00:00 OrderID: 18 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 22.11117 USD StopPrice: 22.13868 OrderFee: 1 USD
+2016-01-08 00:00:00 cancelling bracket orders for: 2016-01-08 00:00:00
+2016-01-08 00:00:00 Time: 01/08/2016 05:00:00 OrderID: 17 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 LimitPrice: 27.05839
+2016-01-08 00:00:00 Time: 01/08/2016 05:00:00 OrderID: 17 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 LimitPrice: 27.05839
+2016-01-08 00:00:00 missing key in order tickets: AAPL
+2016-01-08 00:00:00 order tickets keys: dict_keys([])
+2016-01-08 00:00:00 Time: 01/08/2016 05:00:00 OrderID: 19 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2016-01-09 00:00:00 Time: 01/09/2016 05:00:00 OrderID: 19 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 22.58801 USD OrderFee: 1 USD
+2016-01-09 00:00:00 Time: 01/09/2016 05:00:00 OrderID: 20 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 24.84681
+2016-01-09 00:00:00 Time: 01/09/2016 05:00:00 OrderID: 21 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 20.32921
+2016-01-09 00:00:00 bracket order submitted: 2016-01-09 00:00:00
+2016-03-31 00:00:00 Time: 03/31/2016 04:00:00 OrderID: 20 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 25.03165 USD LimitPrice: 24.84681 OrderFee: 1 USD
+2016-03-31 00:00:00 cancelling bracket orders for: 2016-03-31 00:00:00
+2016-03-31 00:00:00 Time: 03/31/2016 04:00:00 OrderID: 21 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 20.32921
+2016-03-31 00:00:00 Time: 03/31/2016 04:00:00 OrderID: 21 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 20.32921
+2016-03-31 00:00:00 missing key in order tickets: AAPL
+2016-03-31 00:00:00 order tickets keys: dict_keys([])
+2016-03-31 00:00:00 Time: 03/31/2016 04:00:00 OrderID: 22 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2016-04-01 00:00:00 Time: 04/01/2016 04:00:00 OrderID: 22 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 25.28289 USD OrderFee: 1 USD
+2016-04-01 00:00:00 Time: 04/01/2016 04:00:00 OrderID: 23 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 27.81118
+2016-04-01 00:00:00 Time: 04/01/2016 04:00:00 OrderID: 24 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 22.7546
+2016-04-01 00:00:00 bracket order submitted: 2016-04-01 00:00:00
+2016-04-28 00:00:00 Time: 04/28/2016 04:00:00 OrderID: 24 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 22.54693 USD StopPrice: 22.7546 OrderFee: 1 USD
+2016-04-28 00:00:00 cancelling bracket orders for: 2016-04-28 00:00:00
+2016-04-28 00:00:00 Time: 04/28/2016 04:00:00 OrderID: 23 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 LimitPrice: 27.81118
+2016-04-28 00:00:00 Time: 04/28/2016 04:00:00 OrderID: 23 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 LimitPrice: 27.81118
+2016-04-28 00:00:00 missing key in order tickets: AAPL
+2016-04-28 00:00:00 order tickets keys: dict_keys([])
+2016-04-28 00:00:00 Time: 04/28/2016 04:00:00 OrderID: 25 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2016-04-29 00:00:00 Time: 04/29/2016 04:00:00 OrderID: 25 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 22.48469 USD OrderFee: 1 USD
+2016-04-29 00:00:00 Time: 04/29/2016 04:00:00 OrderID: 26 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 24.73316
+2016-04-29 00:00:00 Time: 04/29/2016 04:00:00 OrderID: 27 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 20.23623
+2016-04-29 00:00:00 bracket order submitted: 2016-04-29 00:00:00
+2016-08-06 00:00:00 Time: 08/06/2016 04:00:00 OrderID: 26 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 24.75159 USD LimitPrice: 24.73316 OrderFee: 1 USD
+2016-08-06 00:00:00 cancelling bracket orders for: 2016-08-06 00:00:00
+2016-08-06 00:00:00 Time: 08/06/2016 04:00:00 OrderID: 27 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 20.23623
+2016-08-06 00:00:00 Time: 08/06/2016 04:00:00 OrderID: 27 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 20.23623
+2016-08-06 00:00:00 missing key in order tickets: AAPL
+2016-08-06 00:00:00 order tickets keys: dict_keys([])
+2016-08-06 00:00:00 Time: 08/06/2016 04:00:00 OrderID: 28 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2016-08-09 00:00:00 Time: 08/09/2016 04:00:00 OrderID: 28 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 25.06868 USD OrderFee: 1 USD
+2016-08-09 00:00:00 Time: 08/09/2016 04:00:00 OrderID: 29 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 27.57555
+2016-08-09 00:00:00 Time: 08/09/2016 04:00:00 OrderID: 30 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 22.56181
+2016-08-09 00:00:00 bracket order submitted: 2016-08-09 00:00:00
+2016-10-12 00:00:00 Time: 10/12/2016 04:00:00 OrderID: 29 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 27.57555 USD LimitPrice: 27.57555 OrderFee: 1 USD
+2016-10-12 00:00:00 cancelling bracket orders for: 2016-10-12 00:00:00
+2016-10-12 00:00:00 Time: 10/12/2016 04:00:00 OrderID: 30 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 22.56181
+2016-10-12 00:00:00 Time: 10/12/2016 04:00:00 OrderID: 30 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 22.56181
+2016-10-12 00:00:00 missing key in order tickets: AAPL
+2016-10-12 00:00:00 order tickets keys: dict_keys([])
+2016-10-12 00:00:00 Time: 10/12/2016 04:00:00 OrderID: 31 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2016-10-13 00:00:00 Time: 10/13/2016 04:00:00 OrderID: 31 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 27.36291 USD OrderFee: 1 USD
+2016-10-13 00:00:00 Time: 10/13/2016 04:00:00 OrderID: 32 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 30.0992
+2016-10-13 00:00:00 Time: 10/13/2016 04:00:00 OrderID: 33 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 24.62662
+2016-10-13 00:00:00 bracket order submitted: 2016-10-13 00:00:00
+2016-11-15 00:00:00 Time: 11/15/2016 05:00:00 OrderID: 33 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 24.62662 USD StopPrice: 24.62662 OrderFee: 1 USD
+2016-11-15 00:00:00 cancelling bracket orders for: 2016-11-15 00:00:00
+2016-11-15 00:00:00 Time: 11/15/2016 05:00:00 OrderID: 32 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 LimitPrice: 30.0992
+2016-11-15 00:00:00 Time: 11/15/2016 05:00:00 OrderID: 32 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 LimitPrice: 30.0992
+2016-11-15 00:00:00 missing key in order tickets: AAPL
+2016-11-15 00:00:00 order tickets keys: dict_keys([])
+2016-11-15 00:00:00 Time: 11/15/2016 05:00:00 OrderID: 34 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2016-11-16 00:00:00 Time: 11/16/2016 05:00:00 OrderID: 34 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 24.95835 USD OrderFee: 1 USD
+2016-11-16 00:00:00 Time: 11/16/2016 05:00:00 OrderID: 35 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 27.45418
+2016-11-16 00:00:00 Time: 11/16/2016 05:00:00 OrderID: 36 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 22.46251
+2016-11-16 00:00:00 bracket order submitted: 2016-11-16 00:00:00
+2016-12-20 00:00:00 Time: 12/20/2016 05:00:00 OrderID: 35 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 27.45418 USD LimitPrice: 27.45418 OrderFee: 1 USD
+2016-12-20 00:00:00 cancelling bracket orders for: 2016-12-20 00:00:00
+2016-12-20 00:00:00 Time: 12/20/2016 05:00:00 OrderID: 36 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 22.46251
+2016-12-20 00:00:00 Time: 12/20/2016 05:00:00 OrderID: 36 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 22.46251
+2016-12-20 00:00:00 missing key in order tickets: AAPL
+2016-12-20 00:00:00 order tickets keys: dict_keys([])
+2016-12-20 00:00:00 Time: 12/20/2016 05:00:00 OrderID: 37 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2016-12-21 00:00:00 Time: 12/21/2016 05:00:00 OrderID: 37 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 27.3581 USD OrderFee: 1 USD
+2016-12-21 00:00:00 Time: 12/21/2016 05:00:00 OrderID: 38 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 30.09391
+2016-12-21 00:00:00 Time: 12/21/2016 05:00:00 OrderID: 39 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 24.62229
+2016-12-21 00:00:00 bracket order submitted: 2016-12-21 00:00:00
+2017-02-02 00:00:00 Time: 02/02/2017 05:00:00 OrderID: 38 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 30.09391 USD LimitPrice: 30.09391 OrderFee: 1 USD
+2017-02-02 00:00:00 cancelling bracket orders for: 2017-02-02 00:00:00
+2017-02-02 00:00:00 Time: 02/02/2017 05:00:00 OrderID: 39 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 24.62229
+2017-02-02 00:00:00 Time: 02/02/2017 05:00:00 OrderID: 39 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 24.62229
+2017-02-02 00:00:00 missing key in order tickets: AAPL
+2017-02-02 00:00:00 order tickets keys: dict_keys([])
+2017-02-02 00:00:00 Time: 02/02/2017 05:00:00 OrderID: 40 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2017-02-03 00:00:00 Time: 02/03/2017 05:00:00 OrderID: 40 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 29.99455 USD OrderFee: 1 USD
+2017-02-03 00:00:00 Time: 02/03/2017 05:00:00 OrderID: 41 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 32.994
+2017-02-03 00:00:00 Time: 02/03/2017 05:00:00 OrderID: 42 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 26.99509
+2017-02-03 00:00:00 bracket order submitted: 2017-02-03 00:00:00
+2017-03-03 00:00:00 Time: 03/03/2017 05:00:00 OrderID: 41 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 32.994 USD LimitPrice: 32.994 OrderFee: 1 USD
+2017-03-03 00:00:00 cancelling bracket orders for: 2017-03-03 00:00:00
+2017-03-03 00:00:00 Time: 03/03/2017 05:00:00 OrderID: 42 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 26.99509
+2017-03-03 00:00:00 Time: 03/03/2017 05:00:00 OrderID: 42 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 26.99509
+2017-03-03 00:00:00 missing key in order tickets: AAPL
+2017-03-03 00:00:00 order tickets keys: dict_keys([])
+2017-03-03 00:00:00 Time: 03/03/2017 05:00:00 OrderID: 43 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2017-03-04 00:00:00 Time: 03/04/2017 05:00:00 OrderID: 43 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 32.66655 USD OrderFee: 1 USD
+2017-03-04 00:00:00 Time: 03/04/2017 05:00:00 OrderID: 44 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 35.93321
+2017-03-04 00:00:00 Time: 03/04/2017 05:00:00 OrderID: 45 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 29.3999
+2017-03-04 00:00:00 bracket order submitted: 2017-03-04 00:00:00
+2017-05-09 00:00:00 Time: 05/09/2017 04:00:00 OrderID: 44 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 35.93321 USD LimitPrice: 35.93321 OrderFee: 1 USD
+2017-05-09 00:00:00 cancelling bracket orders for: 2017-05-09 00:00:00
+2017-05-09 00:00:00 Time: 05/09/2017 04:00:00 OrderID: 45 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 29.3999
+2017-05-09 00:00:00 Time: 05/09/2017 04:00:00 OrderID: 45 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 29.3999
+2017-05-09 00:00:00 missing key in order tickets: AAPL
+2017-05-09 00:00:00 order tickets keys: dict_keys([])
+2017-05-09 00:00:00 Time: 05/09/2017 04:00:00 OrderID: 46 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2017-05-10 00:00:00 Time: 05/10/2017 04:00:00 OrderID: 46 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 36.21824 USD OrderFee: 1 USD
+2017-05-10 00:00:00 Time: 05/10/2017 04:00:00 OrderID: 47 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 39.84006
+2017-05-10 00:00:00 Time: 05/10/2017 04:00:00 OrderID: 48 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 32.59641
+2017-05-10 00:00:00 bracket order submitted: 2017-05-10 00:00:00
+2017-10-31 00:00:00 Time: 10/31/2017 04:00:00 OrderID: 47 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 39.84006 USD LimitPrice: 39.84006 OrderFee: 1 USD
+2017-10-31 00:00:00 cancelling bracket orders for: 2017-10-31 00:00:00
+2017-10-31 00:00:00 Time: 10/31/2017 04:00:00 OrderID: 48 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 32.59641
+2017-10-31 00:00:00 Time: 10/31/2017 04:00:00 OrderID: 48 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 32.59641
+2017-10-31 00:00:00 missing key in order tickets: AAPL
+2017-10-31 00:00:00 order tickets keys: dict_keys([])
+2017-10-31 00:00:00 Time: 10/31/2017 04:00:00 OrderID: 49 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2017-11-01 00:00:00 Time: 11/01/2017 04:00:00 OrderID: 49 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 39.84176 USD OrderFee: 1 USD
+2017-11-01 00:00:00 Time: 11/01/2017 04:00:00 OrderID: 50 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 43.82594
+2017-11-01 00:00:00 Time: 11/01/2017 04:00:00 OrderID: 51 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 35.85759
+2017-11-01 00:00:00 bracket order submitted: 2017-11-01 00:00:00
+2018-03-14 00:00:00 Time: 03/14/2018 04:00:00 OrderID: 50 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 43.82594 USD LimitPrice: 43.82594 OrderFee: 1 USD
+2018-03-14 00:00:00 cancelling bracket orders for: 2018-03-14 00:00:00
+2018-03-14 00:00:00 Time: 03/14/2018 04:00:00 OrderID: 51 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 35.85759
+2018-03-14 00:00:00 Time: 03/14/2018 04:00:00 OrderID: 51 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 35.85759
+2018-03-14 00:00:00 missing key in order tickets: AAPL
+2018-03-14 00:00:00 order tickets keys: dict_keys([])
+2018-03-14 00:00:00 Time: 03/14/2018 04:00:00 OrderID: 52 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2018-03-15 00:00:00 Time: 03/15/2018 04:00:00 OrderID: 52 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 43.15577 USD OrderFee: 1 USD
+2018-03-15 00:00:00 Time: 03/15/2018 04:00:00 OrderID: 53 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 47.47134
+2018-03-15 00:00:00 Time: 03/15/2018 04:00:00 OrderID: 54 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 38.84019
+2018-03-15 00:00:00 bracket order submitted: 2018-03-15 00:00:00
+2018-04-25 00:00:00 Time: 04/25/2018 04:00:00 OrderID: 54 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 38.84019 USD StopPrice: 38.84019 OrderFee: 1 USD
+2018-04-25 00:00:00 cancelling bracket orders for: 2018-04-25 00:00:00
+2018-04-25 00:00:00 Time: 04/25/2018 04:00:00 OrderID: 53 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 LimitPrice: 47.47134
+2018-04-25 00:00:00 Time: 04/25/2018 04:00:00 OrderID: 53 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 LimitPrice: 47.47134
+2018-04-25 00:00:00 missing key in order tickets: AAPL
+2018-04-25 00:00:00 order tickets keys: dict_keys([])
+2018-04-25 00:00:00 Time: 04/25/2018 04:00:00 OrderID: 55 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2018-04-26 00:00:00 Time: 04/26/2018 04:00:00 OrderID: 55 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 38.88084 USD OrderFee: 1 USD
+2018-04-26 00:00:00 Time: 04/26/2018 04:00:00 OrderID: 56 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 42.76892
+2018-04-26 00:00:00 Time: 04/26/2018 04:00:00 OrderID: 57 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 34.99275
+2018-04-26 00:00:00 bracket order submitted: 2018-04-26 00:00:00
+2018-05-05 00:00:00 Time: 05/05/2018 04:00:00 OrderID: 56 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 42.76892 USD LimitPrice: 42.76892 OrderFee: 1 USD
+2018-05-05 00:00:00 cancelling bracket orders for: 2018-05-05 00:00:00
+2018-05-05 00:00:00 Time: 05/05/2018 04:00:00 OrderID: 57 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 34.99275
+2018-05-05 00:00:00 Time: 05/05/2018 04:00:00 OrderID: 57 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 34.99275
+2018-05-05 00:00:00 missing key in order tickets: AAPL
+2018-05-05 00:00:00 order tickets keys: dict_keys([])
+2018-05-05 00:00:00 Time: 05/05/2018 04:00:00 OrderID: 58 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2018-05-08 00:00:00 Time: 05/08/2018 04:00:00 OrderID: 58 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 44.25797 USD OrderFee: 1 USD
+2018-05-08 00:00:00 Time: 05/08/2018 04:00:00 OrderID: 59 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 48.68377
+2018-05-08 00:00:00 Time: 05/08/2018 04:00:00 OrderID: 60 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 39.83218
+2018-05-08 00:00:00 bracket order submitted: 2018-05-08 00:00:00
+2018-08-03 00:00:00 Time: 08/03/2018 04:00:00 OrderID: 59 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 48.68377 USD LimitPrice: 48.68377 OrderFee: 1 USD
+2018-08-03 00:00:00 cancelling bracket orders for: 2018-08-03 00:00:00
+2018-08-03 00:00:00 Time: 08/03/2018 04:00:00 OrderID: 60 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 39.83218
+2018-08-03 00:00:00 Time: 08/03/2018 04:00:00 OrderID: 60 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 39.83218
+2018-08-03 00:00:00 missing key in order tickets: AAPL
+2018-08-03 00:00:00 order tickets keys: dict_keys([])
+2018-08-03 00:00:00 Time: 08/03/2018 04:00:00 OrderID: 61 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2018-08-04 00:00:00 Time: 08/04/2018 04:00:00 OrderID: 61 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 49.6945 USD OrderFee: 1 USD
+2018-08-04 00:00:00 Time: 08/04/2018 04:00:00 OrderID: 62 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 54.66395
+2018-08-04 00:00:00 Time: 08/04/2018 04:00:00 OrderID: 63 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 44.72505
+2018-08-04 00:00:00 bracket order submitted: 2018-08-04 00:00:00
+2018-08-31 00:00:00 Time: 08/31/2018 04:00:00 OrderID: 62 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 54.66395 USD LimitPrice: 54.66395 OrderFee: 1 USD
+2018-08-31 00:00:00 cancelling bracket orders for: 2018-08-31 00:00:00
+2018-08-31 00:00:00 Time: 08/31/2018 04:00:00 OrderID: 63 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 44.72505
+2018-08-31 00:00:00 Time: 08/31/2018 04:00:00 OrderID: 63 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 44.72505
+2018-08-31 00:00:00 missing key in order tickets: AAPL
+2018-08-31 00:00:00 order tickets keys: dict_keys([])
+2018-08-31 00:00:00 Time: 08/31/2018 04:00:00 OrderID: 64 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2018-09-01 00:00:00 Time: 09/01/2018 04:00:00 OrderID: 64 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 54.58711 USD OrderFee: 1 USD
+2018-09-01 00:00:00 Time: 09/01/2018 04:00:00 OrderID: 65 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 60.04582
+2018-09-01 00:00:00 Time: 09/01/2018 04:00:00 OrderID: 66 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 49.1284
+2018-09-01 00:00:00 bracket order submitted: 2018-09-01 00:00:00
+2018-11-06 00:00:00 Time: 11/06/2018 05:00:00 OrderID: 66 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 48.55372 USD StopPrice: 49.1284 OrderFee: 1 USD
+2018-11-06 00:00:00 cancelling bracket orders for: 2018-11-06 00:00:00
+2018-11-06 00:00:00 Time: 11/06/2018 05:00:00 OrderID: 65 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 LimitPrice: 60.04582
+2018-11-06 00:00:00 Time: 11/06/2018 05:00:00 OrderID: 65 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 LimitPrice: 60.04582
+2018-11-06 00:00:00 missing key in order tickets: AAPL
+2018-11-06 00:00:00 order tickets keys: dict_keys([])
+2018-11-06 00:00:00 Time: 11/06/2018 05:00:00 OrderID: 67 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2018-11-07 00:00:00 Time: 11/07/2018 05:00:00 OrderID: 67 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 48.60912 USD OrderFee: 1 USD
+2018-11-07 00:00:00 Time: 11/07/2018 05:00:00 OrderID: 68 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 53.47003
+2018-11-07 00:00:00 Time: 11/07/2018 05:00:00 OrderID: 69 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 43.74821
+2018-11-07 00:00:00 bracket order submitted: 2018-11-07 00:00:00
+2018-11-21 00:00:00 Time: 11/21/2018 05:00:00 OrderID: 69 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 42.77504 USD StopPrice: 43.74821 OrderFee: 1 USD
+2018-11-21 00:00:00 cancelling bracket orders for: 2018-11-21 00:00:00
+2018-11-21 00:00:00 Time: 11/21/2018 05:00:00 OrderID: 68 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 LimitPrice: 53.47003
+2018-11-21 00:00:00 Time: 11/21/2018 05:00:00 OrderID: 68 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 LimitPrice: 53.47003
+2018-11-21 00:00:00 missing key in order tickets: AAPL
+2018-11-21 00:00:00 order tickets keys: dict_keys([])
+2018-11-21 00:00:00 Time: 11/21/2018 05:00:00 OrderID: 70 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2018-11-22 00:00:00 Time: 11/22/2018 05:00:00 OrderID: 70 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 43.39861 USD OrderFee: 1 USD
+2018-11-22 00:00:00 Time: 11/22/2018 05:00:00 OrderID: 71 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 47.73847
+2018-11-22 00:00:00 Time: 11/22/2018 05:00:00 OrderID: 72 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 39.05875
+2018-11-22 00:00:00 bracket order submitted: 2018-11-22 00:00:00
+2018-12-20 00:00:00 Time: 12/20/2018 05:00:00 OrderID: 72 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 38.88618 USD StopPrice: 39.05875 OrderFee: 1 USD
+2018-12-20 00:00:00 cancelling bracket orders for: 2018-12-20 00:00:00
+2018-12-20 00:00:00 Time: 12/20/2018 05:00:00 OrderID: 71 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 LimitPrice: 47.73847
+2018-12-20 00:00:00 Time: 12/20/2018 05:00:00 OrderID: 71 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 LimitPrice: 47.73847
+2018-12-20 00:00:00 missing key in order tickets: AAPL
+2018-12-20 00:00:00 order tickets keys: dict_keys([])
+2018-12-20 00:00:00 Time: 12/20/2018 05:00:00 OrderID: 73 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2018-12-21 00:00:00 Time: 12/21/2018 05:00:00 OrderID: 73 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 38.71699 USD OrderFee: 1 USD
+2018-12-21 00:00:00 Time: 12/21/2018 05:00:00 OrderID: 74 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 42.58869
+2018-12-21 00:00:00 Time: 12/21/2018 05:00:00 OrderID: 75 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 34.84529
+2018-12-21 00:00:00 bracket order submitted: 2018-12-21 00:00:00
+2019-01-04 00:00:00 Time: 01/04/2019 05:00:00 OrderID: 75 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 34.3665 USD StopPrice: 34.84529 OrderFee: 1 USD
+2019-01-04 00:00:00 cancelling bracket orders for: 2019-01-04 00:00:00
+2019-01-04 00:00:00 Time: 01/04/2019 05:00:00 OrderID: 74 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 LimitPrice: 42.58869
+2019-01-04 00:00:00 Time: 01/04/2019 05:00:00 OrderID: 74 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 LimitPrice: 42.58869
+2019-01-04 00:00:00 missing key in order tickets: AAPL
+2019-01-04 00:00:00 order tickets keys: dict_keys([])
+2019-01-04 00:00:00 Time: 01/04/2019 05:00:00 OrderID: 76 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2019-01-05 00:00:00 Time: 01/05/2019 05:00:00 OrderID: 76 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 34.92481 USD OrderFee: 1 USD
+2019-01-05 00:00:00 Time: 01/05/2019 05:00:00 OrderID: 77 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 38.41729
+2019-01-05 00:00:00 Time: 01/05/2019 05:00:00 OrderID: 78 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 31.43233
+2019-01-05 00:00:00 bracket order submitted: 2019-01-05 00:00:00
+2019-01-31 00:00:00 Time: 01/31/2019 05:00:00 OrderID: 77 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 38.72666 USD LimitPrice: 38.41729 OrderFee: 1 USD
+2019-01-31 00:00:00 cancelling bracket orders for: 2019-01-31 00:00:00
+2019-01-31 00:00:00 Time: 01/31/2019 05:00:00 OrderID: 78 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 31.43233
+2019-01-31 00:00:00 Time: 01/31/2019 05:00:00 OrderID: 78 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 31.43233
+2019-01-31 00:00:00 missing key in order tickets: AAPL
+2019-01-31 00:00:00 order tickets keys: dict_keys([])
+2019-01-31 00:00:00 Time: 01/31/2019 05:00:00 OrderID: 79 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2019-02-01 00:00:00 Time: 02/01/2019 05:00:00 OrderID: 79 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 40.15507 USD OrderFee: 1 USD
+2019-02-01 00:00:00 Time: 02/01/2019 05:00:00 OrderID: 80 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 44.17058
+2019-02-01 00:00:00 Time: 02/01/2019 05:00:00 OrderID: 81 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 36.13957
+2019-02-01 00:00:00 bracket order submitted: 2019-02-01 00:00:00
+2019-03-13 00:00:00 Time: 03/13/2019 04:00:00 OrderID: 80 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 44.17058 USD LimitPrice: 44.17058 OrderFee: 1 USD
+2019-03-13 00:00:00 cancelling bracket orders for: 2019-03-13 00:00:00
+2019-03-13 00:00:00 Time: 03/13/2019 04:00:00 OrderID: 81 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 36.13957
+2019-03-13 00:00:00 Time: 03/13/2019 04:00:00 OrderID: 81 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 36.13957
+2019-03-13 00:00:00 missing key in order tickets: AAPL
+2019-03-13 00:00:00 order tickets keys: dict_keys([])
+2019-03-13 00:00:00 Time: 03/13/2019 04:00:00 OrderID: 82 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2019-03-14 00:00:00 Time: 03/14/2019 04:00:00 OrderID: 82 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 44.24739 USD OrderFee: 1 USD
+2019-03-14 00:00:00 Time: 03/14/2019 04:00:00 OrderID: 83 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 48.67213
+2019-03-14 00:00:00 Time: 03/14/2019 04:00:00 OrderID: 84 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 39.82265
+2019-03-14 00:00:00 bracket order submitted: 2019-03-14 00:00:00
+2019-04-10 00:00:00 Time: 04/10/2019 04:00:00 OrderID: 83 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 48.67213 USD LimitPrice: 48.67213 OrderFee: 1 USD
+2019-04-10 00:00:00 cancelling bracket orders for: 2019-04-10 00:00:00
+2019-04-10 00:00:00 Time: 04/10/2019 04:00:00 OrderID: 84 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 39.82265
+2019-04-10 00:00:00 Time: 04/10/2019 04:00:00 OrderID: 84 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 39.82265
+2019-04-10 00:00:00 missing key in order tickets: AAPL
+2019-04-10 00:00:00 order tickets keys: dict_keys([])
+2019-04-10 00:00:00 Time: 04/10/2019 04:00:00 OrderID: 85 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2019-04-11 00:00:00 Time: 04/11/2019 04:00:00 OrderID: 85 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 48.2476 USD OrderFee: 1 USD
+2019-04-11 00:00:00 Time: 04/11/2019 04:00:00 OrderID: 86 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 53.07236
+2019-04-11 00:00:00 Time: 04/11/2019 04:00:00 OrderID: 87 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 43.42284
+2019-04-11 00:00:00 bracket order submitted: 2019-04-11 00:00:00
+2019-05-24 00:00:00 Time: 05/24/2019 04:00:00 OrderID: 87 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 43.42284 USD StopPrice: 43.42284 OrderFee: 1 USD
+2019-05-24 00:00:00 cancelling bracket orders for: 2019-05-24 00:00:00
+2019-05-24 00:00:00 Time: 05/24/2019 04:00:00 OrderID: 86 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 LimitPrice: 53.07236
+2019-05-24 00:00:00 Time: 05/24/2019 04:00:00 OrderID: 86 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 LimitPrice: 53.07236
+2019-05-24 00:00:00 missing key in order tickets: AAPL
+2019-05-24 00:00:00 order tickets keys: dict_keys([])
+2019-05-24 00:00:00 Time: 05/24/2019 04:00:00 OrderID: 88 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2019-05-25 00:00:00 Time: 05/25/2019 04:00:00 OrderID: 88 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 43.90853 USD OrderFee: 1 USD
+2019-05-25 00:00:00 Time: 05/25/2019 04:00:00 OrderID: 89 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 48.29938
+2019-05-25 00:00:00 Time: 05/25/2019 04:00:00 OrderID: 90 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 39.51767
+2019-05-25 00:00:00 bracket order submitted: 2019-05-25 00:00:00
+2019-06-19 00:00:00 Time: 06/19/2019 04:00:00 OrderID: 89 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 48.29938 USD LimitPrice: 48.29938 OrderFee: 1 USD
+2019-06-19 00:00:00 cancelling bracket orders for: 2019-06-19 00:00:00
+2019-06-19 00:00:00 Time: 06/19/2019 04:00:00 OrderID: 90 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 39.51767
+2019-06-19 00:00:00 Time: 06/19/2019 04:00:00 OrderID: 90 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 39.51767
+2019-06-19 00:00:00 missing key in order tickets: AAPL
+2019-06-19 00:00:00 order tickets keys: dict_keys([])
+2019-06-19 00:00:00 Time: 06/19/2019 04:00:00 OrderID: 91 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2019-06-20 00:00:00 Time: 06/20/2019 04:00:00 OrderID: 91 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 48.6527 USD OrderFee: 1 USD
+2019-06-20 00:00:00 Time: 06/20/2019 04:00:00 OrderID: 92 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 53.51796
+2019-06-20 00:00:00 Time: 06/20/2019 04:00:00 OrderID: 93 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 43.78743
+2019-06-20 00:00:00 bracket order submitted: 2019-06-20 00:00:00
+2019-08-01 00:00:00 Time: 08/01/2019 04:00:00 OrderID: 92 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 53.51796 USD LimitPrice: 53.51796 OrderFee: 1 USD
+2019-08-01 00:00:00 cancelling bracket orders for: 2019-08-01 00:00:00
+2019-08-01 00:00:00 Time: 08/01/2019 04:00:00 OrderID: 93 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 43.78743
+2019-08-01 00:00:00 Time: 08/01/2019 04:00:00 OrderID: 93 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 43.78743
+2019-08-01 00:00:00 missing key in order tickets: AAPL
+2019-08-01 00:00:00 order tickets keys: dict_keys([])
+2019-08-01 00:00:00 Time: 08/01/2019 04:00:00 OrderID: 94 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2019-08-02 00:00:00 Time: 08/02/2019 04:00:00 OrderID: 94 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 52.1493 USD OrderFee: 1 USD
+2019-08-02 00:00:00 Time: 08/02/2019 04:00:00 OrderID: 95 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 57.36423
+2019-08-02 00:00:00 Time: 08/02/2019 04:00:00 OrderID: 96 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 46.93437
+2019-08-02 00:00:00 bracket order submitted: 2019-08-02 00:00:00
+2019-08-06 00:00:00 Time: 08/06/2019 04:00:00 OrderID: 96 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 46.93437 USD StopPrice: 46.93437 OrderFee: 1 USD
+2019-08-06 00:00:00 cancelling bracket orders for: 2019-08-06 00:00:00
+2019-08-06 00:00:00 Time: 08/06/2019 04:00:00 OrderID: 95 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 LimitPrice: 57.36423
+2019-08-06 00:00:00 Time: 08/06/2019 04:00:00 OrderID: 95 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 LimitPrice: 57.36423
+2019-08-06 00:00:00 missing key in order tickets: AAPL
+2019-08-06 00:00:00 order tickets keys: dict_keys([])
+2019-08-06 00:00:00 Time: 08/06/2019 04:00:00 OrderID: 97 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2019-08-07 00:00:00 Time: 08/07/2019 04:00:00 OrderID: 97 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 47.86809 USD OrderFee: 1 USD
+2019-08-07 00:00:00 Time: 08/07/2019 04:00:00 OrderID: 98 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 52.6549
+2019-08-07 00:00:00 Time: 08/07/2019 04:00:00 OrderID: 99 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 43.08128
+2019-08-07 00:00:00 bracket order submitted: 2019-08-07 00:00:00
+2019-09-10 00:00:00 Time: 09/10/2019 04:00:00 OrderID: 98 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 52.6549 USD LimitPrice: 52.6549 OrderFee: 1 USD
+2019-09-10 00:00:00 cancelling bracket orders for: 2019-09-10 00:00:00
+2019-09-10 00:00:00 Time: 09/10/2019 04:00:00 OrderID: 99 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 43.08128
+2019-09-10 00:00:00 Time: 09/10/2019 04:00:00 OrderID: 99 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 43.08128
+2019-09-10 00:00:00 missing key in order tickets: AAPL
+2019-09-10 00:00:00 order tickets keys: dict_keys([])
+2019-09-10 00:00:00 Time: 09/10/2019 04:00:00 OrderID: 100 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2019-09-11 00:00:00 Time: 09/11/2019 04:00:00 OrderID: 100 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 52.3083 USD OrderFee: 1 USD
+2019-09-11 00:00:00 Time: 09/11/2019 04:00:00 OrderID: 101 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 57.53913
+2019-09-11 00:00:00 Time: 09/11/2019 04:00:00 OrderID: 102 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 47.07747
+2019-09-11 00:00:00 bracket order submitted: 2019-09-11 00:00:00
+2019-10-12 00:00:00 Time: 10/12/2019 04:00:00 OrderID: 101 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 57.53913 USD LimitPrice: 57.53913 OrderFee: 1 USD
+2019-10-12 00:00:00 cancelling bracket orders for: 2019-10-12 00:00:00
+2019-10-12 00:00:00 Time: 10/12/2019 04:00:00 OrderID: 102 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 47.07747
+2019-10-12 00:00:00 Time: 10/12/2019 04:00:00 OrderID: 102 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 47.07747
+2019-10-12 00:00:00 missing key in order tickets: AAPL
+2019-10-12 00:00:00 order tickets keys: dict_keys([])
+2019-10-12 00:00:00 Time: 10/12/2019 04:00:00 OrderID: 103 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2019-10-15 00:00:00 Time: 10/15/2019 04:00:00 OrderID: 103 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 57.47896 USD OrderFee: 1 USD
+2019-10-15 00:00:00 Time: 10/15/2019 04:00:00 OrderID: 104 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 63.22686
+2019-10-15 00:00:00 Time: 10/15/2019 04:00:00 OrderID: 105 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 51.73107
+2019-10-15 00:00:00 bracket order submitted: 2019-10-15 00:00:00
+2019-11-08 00:00:00 Time: 11/08/2019 05:00:00 OrderID: 104 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 63.321 USD LimitPrice: 63.22686 OrderFee: 1 USD
+2019-11-08 00:00:00 cancelling bracket orders for: 2019-11-08 00:00:00
+2019-11-08 00:00:00 Time: 11/08/2019 05:00:00 OrderID: 105 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 51.73107
+2019-11-08 00:00:00 Time: 11/08/2019 05:00:00 OrderID: 105 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 51.73107
+2019-11-08 00:00:00 missing key in order tickets: AAPL
+2019-11-08 00:00:00 order tickets keys: dict_keys([])
+2019-11-08 00:00:00 Time: 11/08/2019 05:00:00 OrderID: 106 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2019-11-09 00:00:00 Time: 11/09/2019 05:00:00 OrderID: 106 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 63.46575 USD OrderFee: 1 USD
+2019-11-09 00:00:00 Time: 11/09/2019 05:00:00 OrderID: 107 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 69.81232
+2019-11-09 00:00:00 Time: 11/09/2019 05:00:00 OrderID: 108 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 57.11917
+2019-11-09 00:00:00 bracket order submitted: 2019-11-09 00:00:00
+2019-12-25 00:00:00 Time: 12/25/2019 05:00:00 OrderID: 107 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 69.81232 USD LimitPrice: 69.81232 OrderFee: 1 USD
+2019-12-25 00:00:00 cancelling bracket orders for: 2019-12-25 00:00:00
+2019-12-25 00:00:00 Time: 12/25/2019 05:00:00 OrderID: 108 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 57.11917
+2019-12-25 00:00:00 Time: 12/25/2019 05:00:00 OrderID: 108 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 57.11917
+2019-12-25 00:00:00 missing key in order tickets: AAPL
+2019-12-25 00:00:00 order tickets keys: dict_keys([])
+2019-12-25 00:00:00 Time: 12/25/2019 05:00:00 OrderID: 109 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2019-12-27 00:00:00 Time: 12/27/2019 05:00:00 OrderID: 109 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 69.87365 USD OrderFee: 1 USD
+2019-12-27 00:00:00 Time: 12/27/2019 05:00:00 OrderID: 110 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 76.86102
+2019-12-27 00:00:00 Time: 12/27/2019 05:00:00 OrderID: 111 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 62.88629
+2019-12-27 00:00:00 bracket order submitted: 2019-12-27 00:00:00
+2020-01-14 00:00:00 Time: 01/14/2020 05:00:00 OrderID: 110 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 76.86102 USD LimitPrice: 76.86102 OrderFee: 1 USD
+2020-01-14 00:00:00 cancelling bracket orders for: 2020-01-14 00:00:00
+2020-01-14 00:00:00 Time: 01/14/2020 05:00:00 OrderID: 111 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 62.88629
+2020-01-14 00:00:00 Time: 01/14/2020 05:00:00 OrderID: 111 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 62.88629
+2020-01-14 00:00:00 missing key in order tickets: AAPL
+2020-01-14 00:00:00 order tickets keys: dict_keys([])
+2020-01-14 00:00:00 Time: 01/14/2020 05:00:00 OrderID: 112 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2020-01-15 00:00:00 Time: 01/15/2020 05:00:00 OrderID: 112 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 77.70935 USD OrderFee: 1 USD
+2020-01-15 00:00:00 Time: 01/15/2020 05:00:00 OrderID: 113 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 85.48029
+2020-01-15 00:00:00 Time: 01/15/2020 05:00:00 OrderID: 114 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 69.93842
+2020-01-15 00:00:00 bracket order submitted: 2020-01-15 00:00:00
+2020-02-28 00:00:00 Time: 02/28/2020 05:00:00 OrderID: 114 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 67.26073 USD StopPrice: 69.93842 OrderFee: 1 USD
+2020-02-28 00:00:00 cancelling bracket orders for: 2020-02-28 00:00:00
+2020-02-28 00:00:00 Time: 02/28/2020 05:00:00 OrderID: 113 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 LimitPrice: 85.48029
+2020-02-28 00:00:00 Time: 02/28/2020 05:00:00 OrderID: 113 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 LimitPrice: 85.48029
+2020-02-28 00:00:00 missing key in order tickets: AAPL
+2020-02-28 00:00:00 order tickets keys: dict_keys([])
+2020-02-28 00:00:00 Time: 02/28/2020 05:00:00 OrderID: 115 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2020-02-29 00:00:00 Time: 02/29/2020 05:00:00 OrderID: 115 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 63.30653 USD OrderFee: 1 USD
+2020-02-29 00:00:00 Time: 02/29/2020 05:00:00 OrderID: 116 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 69.63718
+2020-02-29 00:00:00 Time: 02/29/2020 05:00:00 OrderID: 117 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 56.97588
+2020-02-29 00:00:00 bracket order submitted: 2020-02-29 00:00:00
+2020-03-03 00:00:00 Time: 03/03/2020 05:00:00 OrderID: 116 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 69.63718 USD LimitPrice: 69.63718 OrderFee: 1 USD
+2020-03-03 00:00:00 cancelling bracket orders for: 2020-03-03 00:00:00
+2020-03-03 00:00:00 Time: 03/03/2020 05:00:00 OrderID: 117 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 56.97588
+2020-03-03 00:00:00 Time: 03/03/2020 05:00:00 OrderID: 117 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 56.97588
+2020-03-03 00:00:00 missing key in order tickets: AAPL
+2020-03-03 00:00:00 order tickets keys: dict_keys([])
+2020-03-03 00:00:00 Time: 03/03/2020 05:00:00 OrderID: 118 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2020-03-04 00:00:00 Time: 03/04/2020 05:00:00 OrderID: 118 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 74.69452 USD OrderFee: 1 USD
+2020-03-04 00:00:00 Time: 03/04/2020 05:00:00 OrderID: 119 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 82.16398
+2020-03-04 00:00:00 Time: 03/04/2020 05:00:00 OrderID: 120 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 67.22507
+2020-03-04 00:00:00 bracket order submitted: 2020-03-04 00:00:00
+2020-03-10 00:00:00 Time: 03/10/2020 04:00:00 OrderID: 120 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 65.45331 USD StopPrice: 67.22507 OrderFee: 1 USD
+2020-03-10 00:00:00 cancelling bracket orders for: 2020-03-10 00:00:00
+2020-03-10 00:00:00 Time: 03/10/2020 04:00:00 OrderID: 119 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 LimitPrice: 82.16398
+2020-03-10 00:00:00 Time: 03/10/2020 04:00:00 OrderID: 119 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 LimitPrice: 82.16398
+2020-03-10 00:00:00 missing key in order tickets: AAPL
+2020-03-10 00:00:00 order tickets keys: dict_keys([])
+2020-03-10 00:00:00 Time: 03/10/2020 04:00:00 OrderID: 121 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2020-03-11 00:00:00 Time: 03/11/2020 04:00:00 OrderID: 121 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 68.13616 USD OrderFee: 1 USD
+2020-03-11 00:00:00 Time: 03/11/2020 04:00:00 OrderID: 122 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 74.94978
+2020-03-11 00:00:00 Time: 03/11/2020 04:00:00 OrderID: 123 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 61.32254
+2020-03-11 00:00:00 bracket order submitted: 2020-03-11 00:00:00
+2020-03-13 00:00:00 Time: 03/13/2020 04:00:00 OrderID: 123 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 61.04172 USD StopPrice: 61.32254 OrderFee: 1 USD
+2020-03-13 00:00:00 cancelling bracket orders for: 2020-03-13 00:00:00
+2020-03-13 00:00:00 Time: 03/13/2020 04:00:00 OrderID: 122 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 LimitPrice: 74.94978
+2020-03-13 00:00:00 Time: 03/13/2020 04:00:00 OrderID: 122 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 LimitPrice: 74.94978
+2020-03-13 00:00:00 missing key in order tickets: AAPL
+2020-03-13 00:00:00 order tickets keys: dict_keys([])
+2020-03-13 00:00:00 Time: 03/13/2020 04:00:00 OrderID: 124 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2020-03-14 00:00:00 Time: 03/14/2020 04:00:00 OrderID: 124 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 65.16559 USD OrderFee: 1 USD
+2020-03-14 00:00:00 Time: 03/14/2020 04:00:00 OrderID: 125 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 71.68215
+2020-03-14 00:00:00 Time: 03/14/2020 04:00:00 OrderID: 126 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 58.64903
+2020-03-14 00:00:00 bracket order submitted: 2020-03-14 00:00:00
+2020-03-18 00:00:00 Time: 03/18/2020 04:00:00 OrderID: 126 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 58.64903 USD StopPrice: 58.64903 OrderFee: 1 USD
+2020-03-18 00:00:00 cancelling bracket orders for: 2020-03-18 00:00:00
+2020-03-18 00:00:00 Time: 03/18/2020 04:00:00 OrderID: 125 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 LimitPrice: 71.68215
+2020-03-18 00:00:00 Time: 03/18/2020 04:00:00 OrderID: 125 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 LimitPrice: 71.68215
+2020-03-18 00:00:00 missing key in order tickets: AAPL
+2020-03-18 00:00:00 order tickets keys: dict_keys([])
+2020-03-18 00:00:00 Time: 03/18/2020 04:00:00 OrderID: 127 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2020-03-19 00:00:00 Time: 03/19/2020 04:00:00 OrderID: 127 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 59.11626 USD OrderFee: 1 USD
+2020-03-19 00:00:00 Time: 03/19/2020 04:00:00 OrderID: 128 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 65.02789
+2020-03-19 00:00:00 Time: 03/19/2020 04:00:00 OrderID: 129 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 53.20463
+2020-03-19 00:00:00 bracket order submitted: 2020-03-19 00:00:00
+2020-03-24 00:00:00 Time: 03/24/2020 04:00:00 OrderID: 129 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 53.20463 USD StopPrice: 53.20463 OrderFee: 1 USD
+2020-03-24 00:00:00 cancelling bracket orders for: 2020-03-24 00:00:00
+2020-03-24 00:00:00 Time: 03/24/2020 04:00:00 OrderID: 128 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 LimitPrice: 65.02789
+2020-03-24 00:00:00 Time: 03/24/2020 04:00:00 OrderID: 128 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 LimitPrice: 65.02789
+2020-03-24 00:00:00 missing key in order tickets: AAPL
+2020-03-24 00:00:00 order tickets keys: dict_keys([])
+2020-03-24 00:00:00 Time: 03/24/2020 04:00:00 OrderID: 130 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2020-03-25 00:00:00 Time: 03/25/2020 04:00:00 OrderID: 130 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 58.16214 USD OrderFee: 1 USD
+2020-03-25 00:00:00 Time: 03/25/2020 04:00:00 OrderID: 131 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 63.97835
+2020-03-25 00:00:00 Time: 03/25/2020 04:00:00 OrderID: 132 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 52.34592
+2020-03-25 00:00:00 bracket order submitted: 2020-03-25 00:00:00
+2020-04-01 00:00:00 Time: 04/01/2020 04:00:00 OrderID: 131 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 63.97835 USD LimitPrice: 63.97835 OrderFee: 1 USD
+2020-04-01 00:00:00 cancelling bracket orders for: 2020-04-01 00:00:00
+2020-04-01 00:00:00 Time: 04/01/2020 04:00:00 OrderID: 132 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 52.34592
+2020-04-01 00:00:00 Time: 04/01/2020 04:00:00 OrderID: 132 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 52.34592
+2020-04-01 00:00:00 missing key in order tickets: AAPL
+2020-04-01 00:00:00 order tickets keys: dict_keys([])
+2020-04-01 00:00:00 Time: 04/01/2020 04:00:00 OrderID: 133 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2020-04-02 00:00:00 Time: 04/02/2020 04:00:00 OrderID: 133 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 60.64581 USD OrderFee: 1 USD
+2020-04-02 00:00:00 Time: 04/02/2020 04:00:00 OrderID: 134 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 66.71039
+2020-04-02 00:00:00 Time: 04/02/2020 04:00:00 OrderID: 135 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 54.58123
+2020-04-02 00:00:00 bracket order submitted: 2020-04-02 00:00:00
+2020-04-08 00:00:00 Time: 04/08/2020 04:00:00 OrderID: 134 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 66.71039 USD LimitPrice: 66.71039 OrderFee: 1 USD
+2020-04-08 00:00:00 cancelling bracket orders for: 2020-04-08 00:00:00
+2020-04-08 00:00:00 Time: 04/08/2020 04:00:00 OrderID: 135 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 54.58123
+2020-04-08 00:00:00 Time: 04/08/2020 04:00:00 OrderID: 135 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 54.58123
+2020-04-08 00:00:00 missing key in order tickets: AAPL
+2020-04-08 00:00:00 order tickets keys: dict_keys([])
+2020-04-08 00:00:00 Time: 04/08/2020 04:00:00 OrderID: 136 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2020-04-09 00:00:00 Time: 04/09/2020 04:00:00 OrderID: 136 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 64.6123 USD OrderFee: 1 USD
+2020-04-09 00:00:00 Time: 04/09/2020 04:00:00 OrderID: 137 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 71.07353
+2020-04-09 00:00:00 Time: 04/09/2020 04:00:00 OrderID: 138 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 58.15107
+2020-04-09 00:00:00 bracket order submitted: 2020-04-09 00:00:00
+2020-04-15 00:00:00 Time: 04/15/2020 04:00:00 OrderID: 137 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 71.07353 USD LimitPrice: 71.07353 OrderFee: 1 USD
+2020-04-15 00:00:00 cancelling bracket orders for: 2020-04-15 00:00:00
+2020-04-15 00:00:00 Time: 04/15/2020 04:00:00 OrderID: 138 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 58.15107
+2020-04-15 00:00:00 Time: 04/15/2020 04:00:00 OrderID: 138 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 58.15107
+2020-04-15 00:00:00 missing key in order tickets: AAPL
+2020-04-15 00:00:00 order tickets keys: dict_keys([])
+2020-04-15 00:00:00 Time: 04/15/2020 04:00:00 OrderID: 139 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2020-04-16 00:00:00 Time: 04/16/2020 04:00:00 OrderID: 139 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 69.49849 USD OrderFee: 1 USD
+2020-04-16 00:00:00 Time: 04/16/2020 04:00:00 OrderID: 140 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 76.44834
+2020-04-16 00:00:00 Time: 04/16/2020 04:00:00 OrderID: 141 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 62.54864
+2020-04-16 00:00:00 bracket order submitted: 2020-04-16 00:00:00
+2020-05-09 00:00:00 Time: 05/09/2020 04:00:00 OrderID: 140 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 76.44834 USD LimitPrice: 76.44834 OrderFee: 1 USD
+2020-05-09 00:00:00 cancelling bracket orders for: 2020-05-09 00:00:00
+2020-05-09 00:00:00 Time: 05/09/2020 04:00:00 OrderID: 141 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 62.54864
+2020-05-09 00:00:00 Time: 05/09/2020 04:00:00 OrderID: 141 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 62.54864
+2020-05-09 00:00:00 missing key in order tickets: AAPL
+2020-05-09 00:00:00 order tickets keys: dict_keys([])
+2020-05-09 00:00:00 Time: 05/09/2020 04:00:00 OrderID: 142 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2020-05-12 00:00:00 Time: 05/12/2020 04:00:00 OrderID: 142 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 75.94466 USD OrderFee: 1 USD
+2020-05-12 00:00:00 Time: 05/12/2020 04:00:00 OrderID: 143 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 83.53913
+2020-05-12 00:00:00 Time: 05/12/2020 04:00:00 OrderID: 144 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 68.35019
+2020-05-12 00:00:00 bracket order submitted: 2020-05-12 00:00:00
+2020-06-10 00:00:00 Time: 06/10/2020 04:00:00 OrderID: 143 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 83.53913 USD LimitPrice: 83.53913 OrderFee: 1 USD
+2020-06-10 00:00:00 cancelling bracket orders for: 2020-06-10 00:00:00
+2020-06-10 00:00:00 Time: 06/10/2020 04:00:00 OrderID: 144 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 68.35019
+2020-06-10 00:00:00 Time: 06/10/2020 04:00:00 OrderID: 144 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 68.35019
+2020-06-10 00:00:00 missing key in order tickets: AAPL
+2020-06-10 00:00:00 order tickets keys: dict_keys([])
+2020-06-10 00:00:00 Time: 06/10/2020 04:00:00 OrderID: 145 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2020-06-11 00:00:00 Time: 06/11/2020 04:00:00 OrderID: 145 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 85.80021 USD OrderFee: 1 USD
+2020-06-11 00:00:00 Time: 06/11/2020 04:00:00 OrderID: 146 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 94.38023
+2020-06-11 00:00:00 Time: 06/11/2020 04:00:00 OrderID: 147 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 77.22019
+2020-06-11 00:00:00 bracket order submitted: 2020-06-11 00:00:00
+2020-07-10 00:00:00 Time: 07/10/2020 04:00:00 OrderID: 146 EventID: 2 Symbol: AAPL Status: Filled Quantity: -10 FillQuantity: -10 FillPrice: 94.38023 USD LimitPrice: 94.38023 OrderFee: 1 USD
+2020-07-10 00:00:00 cancelling bracket orders for: 2020-07-10 00:00:00
+2020-07-10 00:00:00 Time: 07/10/2020 04:00:00 OrderID: 147 EventID: 2 Symbol: AAPL Status: CancelPending Quantity: -10 StopPrice: 77.22019
+2020-07-10 00:00:00 Time: 07/10/2020 04:00:00 OrderID: 147 EventID: 3 Symbol: AAPL Status: Canceled Quantity: -10 StopPrice: 77.22019
+2020-07-10 00:00:00 missing key in order tickets: AAPL
+2020-07-10 00:00:00 order tickets keys: dict_keys([])
+2020-07-10 00:00:00 Time: 07/10/2020 04:00:00 OrderID: 148 EventID: 1 Symbol: AAPL Status: Submitted Quantity: 10
+2020-07-11 00:00:00 Time: 07/11/2020 04:00:00 OrderID: 148 EventID: 2 Symbol: AAPL Status: Filled Quantity: 10 FillQuantity: 10 FillPrice: 94.1985 USD OrderFee: 1 USD
+2020-07-11 00:00:00 Time: 07/11/2020 04:00:00 OrderID: 149 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 LimitPrice: 103.6184
+2020-07-11 00:00:00 Time: 07/11/2020 04:00:00 OrderID: 150 EventID: 1 Symbol: AAPL Status: Submitted Quantity: -10 StopPrice: 84.77865
+2020-07-11 00:00:00 bracket order submitted: 2020-07-11 00:00:00
+2020-07-31 00:00:00 Algorithm Id:(a193b56b2347509ee3c521ddb16ce0f9) completed in 1.45 seconds at 8k data points per second. Processing total of 11,230 data points.
